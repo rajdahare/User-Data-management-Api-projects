@@ -1,0 +1,51 @@
+body{
+    background-color: #0f424e;
+    
+}
+
+#bodySection{
+    margin-top: 100px;
+    border: 2px solid black;
+    width: 30%;
+    background-color: azure;
+    font-family: cursive;
+    border-radius: 10px;
+}
+
+#profile{
+    homework{
+        background-color: rgb(235, 198, 143); color: white; font-style: none;
+    }
+}
+
+#hero{
+    flex: auto;
+    align-items: center;
+    width: 50%;
+    background-color: red;
+    border-radius: 10px;
+
+    #temp{
+        flex: auto;
+        flex-wrap: wrap;
+        background-color: yellowgreen;
+        border-radius: 10px;
+        font-size: large;
+    }
+    
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link :hover{
+    color: black;
+    
+}
+
+/* .raw{
+    background-color: azure; color:black; width: 50%; margin-left:28%; align-items: center;
+} */
+
+
